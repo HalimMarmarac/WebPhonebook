@@ -54,7 +54,7 @@
 			</div>
 
 			<div class="form-group">
-				<label for="phone" class="col-sm-2 control-label">Phone #</label>
+				<label for="phone" class="col-sm-2 control-label">Phone</label>
 				<div class="col-sm-10">
 					<input type="text" class="form-control" id="phone" name="phone"
 						placeholder="eg. 123456789">
@@ -65,7 +65,7 @@
 				<label for="address" class="col-sm-2 control-label">Address</label>
 				<div class="col-sm-10">
 					<input type="text" class="form-control" id="address"
-						name="address" placeholder="eg. example@example.com">
+						name="address" placeholder="eg. London, UK">
 				</div>
 			</div>
 
