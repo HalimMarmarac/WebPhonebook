@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+body {
+	background: url(../img/bkg.jpg);
+}
+
+h3 {
+	color: white;
+}
+
+h4 {
+	color: white;
+}
+
+#register {
+	padding-top: 20px;
+}
+
+#login {
+	padding-top: 20px;
+}
+
+.footer {
+	text-align: center;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 30px;
+	width: 100%;
+}
