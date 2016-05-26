@@ -26,7 +26,8 @@
 <body>
 
 	<jsp:include page="includes/inheader.jsp"></jsp:include>
-
+	
+	<br> <br> <br>
 
 	<div class="container">
 		<h3>Search contacts</h3>
